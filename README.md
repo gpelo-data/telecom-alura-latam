@@ -1,4 +1,4 @@
-# 📊 Telecom Alura LATAM - Análisis de Datos
+# 📊 Telecom Alura LATAM - ETL
 
 Proyecto de análisis de datos que forma parte del Challenge "Churn Clientes" de la especialización en Data Science de la plataforma Alura LATAM.
 
